@@ -2,6 +2,12 @@
 
 ## Performance optimization
 
+### Machine Learn
+
+**TensorFlow**
+ - https://keras.io/
+ 
+
 ### Database
 
 **Postgres**
@@ -9,6 +15,4 @@
  - https://pgtune.leopard.in.ua/#/
  - https://github.com/kevincolemaninc/yeet_dba
  - https://github.com/plentz/lol_dba
- 
- 
  
