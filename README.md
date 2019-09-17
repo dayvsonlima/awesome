@@ -28,6 +28,10 @@
 **Display Flex**
  - https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 
+### Email
+ - https://listmonk.app/
+ - https://github.com/atech/postal
+
 ### Docs
 
 - https://devhints.io/
