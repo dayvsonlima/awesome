@@ -37,6 +37,11 @@
  - https://listmonk.app/
  - https://github.com/atech/postal
 
+### Infra
+
+**Monitoring**
+ - https://github.com/aksakalli/gtop
+
 ### Docs
 
 - https://devhints.io/
