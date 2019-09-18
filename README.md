@@ -29,7 +29,7 @@
  - https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 
 ### Algorithms
- - https://www.codility.com/
+ - https://app.codility.com/programmers/
  - https://leetcode.com/
 
 ### Email
