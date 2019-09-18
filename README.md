@@ -28,7 +28,7 @@
 **Display Flex**
  - https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 
-### algorithms
+### Algorithms
  - https://www.codility.com/
  - https://leetcode.com/
 
