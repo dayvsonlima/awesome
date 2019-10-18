@@ -45,3 +45,7 @@
 ### Docs
 
 - https://devhints.io/
+
+### Marketing
+ **Copy**
+ - https://swiped.co/
