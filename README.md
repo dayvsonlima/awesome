@@ -23,6 +23,10 @@
  - https://www.styled-components.com/
  - https://react-native-training.github.io
 
+## Web interface
+ - https://svelte.dev/
+
+
 ### CSS
 
 **Display Flex**
