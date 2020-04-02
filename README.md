@@ -59,3 +59,8 @@
 ### Marketing
  **Copy**
  - https://swiped.co/
+ 
+### GUI Automation
+ - https://github.com/go-vgo/robotgo
+ 
+ 
