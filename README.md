@@ -14,6 +14,7 @@
 **Learn**
 - https://gobyexample.com/
 - https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/
+- [jennifer code generator](https://github.com/dave/jennifer)
 
 ### Database
 
