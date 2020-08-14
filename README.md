@@ -11,6 +11,9 @@
 
 ### Golang
 
+**Tools**
+- https://github.com/d4l3k/go-pry
+
 **Learn**
 - https://gobyexample.com/
 - https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/
